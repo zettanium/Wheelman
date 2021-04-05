@@ -15,6 +15,7 @@ namespace FIMSpace.Basics
         public GameObject Finish_Panel;
         public ParticleSystem gems_particle;
         public ParticleSystem crash_particle;
+        public Text Finish_Gem_Text;
         public Text GemsText;
         public Text X_text;
         
@@ -98,6 +99,7 @@ namespace FIMSpace.Basics
                 gems_particle.Play();
                 Finish_Panel.SetActive(true);
                 X_text.text = PlayerPrefs.GetString("X_Point");
+                Finish_Gem_Text.text = PlayerPrefs.GetInt("Gem_Sum").ToString();
                 GameObject.FindGameObjectWithTag("Player").SetActive(false);
                 Debug.Log("Finish");
                 kamera_takip.FinishStatus = true;
