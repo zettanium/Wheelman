@@ -1,0 +1,1021 @@
+ScriptsOnlyBuild:
+  usedScripts:
+    Assembly-CSharp.dll:
+    - AnimationScript
+    - Debug_Menu
+    - FIMSpace.Basics.FBasic_CharacterInputKeys
+    - FIMSpace.Basics.FBasic_FheelekController
+    - FIMSpace.FTail.FTail_Animator
+    - FIMSpace.FTail.FTail_Animator_MassUpdater
+    - FPSDisplay
+    - Restart
+    - X_Point
+    - kamera_takip
+    Unity.Rider.Editor.dll:
+    - Packages.Rider.Editor.UnitTesting.CallbackData
+    UnityEditor.Graphs.dll:
+    - UnityEditor.Graphs.AnimationBlendTree.Graph
+    - UnityEditor.Graphs.AnimationBlendTree.GraphGUI
+    - UnityEditor.Graphs.AnimationStateMachine.Graph
+    - UnityEditor.Graphs.AnimationStateMachine.GraphGUI
+    - UnityEditor.Graphs.AnimatorControllerTool
+    UnityEditor.TestRunner.dll:
+    - UnityEditor.TestTools.TestRunner.Api.CallbacksHolder
+    - UnityEditor.TestTools.TestRunner.TestListCacheData
+    - UnityEditor.TestTools.TestRunner.TestRun.TestJobDataHolder
+    UnityEngine.UI.dll:
+    - UnityEngine.EventSystems.EventSystem
+    - UnityEngine.EventSystems.StandaloneInputModule
+    - UnityEngine.UI.Button
+    - UnityEngine.UI.CanvasScaler
+    - UnityEngine.UI.GraphicRaycaster
+    - UnityEngine.UI.Image
+    - UnityEngine.UI.Slider
+    - UnityEngine.UI.Text
+  sceneClasses:
+    Assets/Scenes/WheelMan.unity:
+    - Class: 1
+      Script: {instanceID: 0}
+    - Class: 4
+      Script: {instanceID: 0}
+    - Class: 20
+      Script: {instanceID: 0}
+    - Class: 21
+      Script: {instanceID: 0}
+    - Class: 23
+      Script: {instanceID: 0}
+    - Class: 28
+      Script: {instanceID: 0}
+    - Class: 33
+      Script: {instanceID: 0}
+    - Class: 43
+      Script: {instanceID: 0}
+    - Class: 48
+      Script: {instanceID: 0}
+    - Class: 54
+      Script: {instanceID: 0}
+    - Class: 64
+      Script: {instanceID: 0}
+    - Class: 65
+      Script: {instanceID: 0}
+    - Class: 74
+      Script: {instanceID: 0}
+    - Class: 81
+      Script: {instanceID: 0}
+    - Class: 89
+      Script: {instanceID: 0}
+    - Class: 90
+      Script: {instanceID: 0}
+    - Class: 91
+      Script: {instanceID: 0}
+    - Class: 95
+      Script: {instanceID: 0}
+    - Class: 104
+      Script: {instanceID: 0}
+    - Class: 108
+      Script: {instanceID: 0}
+    - Class: 114
+      Script: {instanceID: 1506}
+    - Class: 114
+      Script: {instanceID: 1646}
+    - Class: 114
+      Script: {instanceID: 1738}
+    - Class: 114
+      Script: {instanceID: 1830}
+    - Class: 114
+      Script: {instanceID: 2320}
+    - Class: 114
+      Script: {instanceID: 2636}
+    - Class: 114
+      Script: {instanceID: 2666}
+    - Class: 114
+      Script: {instanceID: 2800}
+    - Class: 114
+      Script: {instanceID: 2850}
+    - Class: 114
+      Script: {instanceID: 3012}
+    - Class: 114
+      Script: {instanceID: 3062}
+    - Class: 114
+      Script: {instanceID: 3284}
+    - Class: 114
+      Script: {instanceID: 3372}
+    - Class: 114
+      Script: {instanceID: 3512}
+    - Class: 114
+      Script: {instanceID: 3650}
+    - Class: 114
+      Script: {instanceID: 3800}
+    - Class: 114
+      Script: {instanceID: 3822}
+    - Class: 114
+      Script: {instanceID: 130502}
+    - Class: 115
+      Script: {instanceID: 0}
+    - Class: 128
+      Script: {instanceID: 0}
+    - Class: 136
+      Script: {instanceID: 0}
+    - Class: 137
+      Script: {instanceID: 0}
+    - Class: 157
+      Script: {instanceID: 0}
+    - Class: 196
+      Script: {instanceID: 0}
+    - Class: 198
+      Script: {instanceID: 0}
+    - Class: 199
+      Script: {instanceID: 0}
+    - Class: 212
+      Script: {instanceID: 0}
+    - Class: 213
+      Script: {instanceID: 0}
+    - Class: 222
+      Script: {instanceID: 0}
+    - Class: 223
+      Script: {instanceID: 0}
+    - Class: 224
+      Script: {instanceID: 0}
+    - Class: 850595691
+      Script: {instanceID: 0}
+  scriptHashData:
+  - hash:
+      serializedVersion: 2
+      Hash: 1f36cc9688ca826eb02c72d05a428362
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: FIMSpace.Basics
+    className: FBasic_Spinner
+  - hash:
+      serializedVersion: 2
+      Hash: 5ab533713adae59372fb3e10a585c186
+    assemblyName: Unity.Timeline.dll
+    namespaceName: UnityEngine.Timeline
+    className: AnimationPlayableAsset
+  - hash:
+      serializedVersion: 2
+      Hash: a6e561615949734e9f12f9b61661f43e
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: Image
+  - hash:
+      serializedVersion: 2
+      Hash: 9ff7bdb890a8d964e8be12b2e7293f39
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: FIMSpace.Basics
+    className: FBasic_TPPCameraBehaviour
+  - hash:
+      serializedVersion: 2
+      Hash: 8aa3d6ccbcb54ee8db6c1229854adaaa
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: ContentSizeFitter
+  - hash:
+      serializedVersion: 2
+      Hash: 77aaaaa51f7a8d8ff333a879741e47d2
+    assemblyName: Unity.TextMeshPro.dll
+    namespaceName: TMPro
+    className: TMP_InputField
+  - hash:
+      serializedVersion: 2
+      Hash: d4119ed0dc82ebf84af0571bbecfeb6e
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: FIMSpace.Basics
+    className: FBasic_PullableLever
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: FIMSpace.Basics
+    className: FBasic_CharacterInputAxis
+  - hash:
+      serializedVersion: 2
+      Hash: caa533b001ae39b864ba8425019e2268
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: Outline
+  - hash:
+      serializedVersion: 2
+      Hash: 437b57ee38dd368cb8ff1a9d7626a9f0
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: FIMSpace.Basics
+    className: FBasic_PowerUpObject
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: Restart
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Unity.Timeline.dll
+    namespaceName: UnityEngine.Timeline
+    className: SignalAsset
+  - hash:
+      serializedVersion: 2
+      Hash: bcaee4c2a83047257b5f47d6ed264b75
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: Toggle
+  - hash:
+      serializedVersion: 2
+      Hash: 6ced8819589835bdcb216d5b2032ed75
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: FIMSpace.Basics
+    className: FBasic_ObjectVibrate
+  - hash:
+      serializedVersion: 2
+      Hash: 0dbc3be398b4869a5c8d0d8481ee402c
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: LayoutElement
+  - hash:
+      serializedVersion: 2
+      Hash: b33778b90bb1b2f54a5f4653b4f3744e
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: FIMSpace.Basics
+    className: FBasic_Shared_PanelAnimations
+  - hash:
+      serializedVersion: 2
+      Hash: c3d3430df9e3ea95e3e3d587961390fb
+    assemblyName: Unity.Timeline.dll
+    namespaceName: UnityEngine.Timeline
+    className: PlayableTrack
+  - hash:
+      serializedVersion: 2
+      Hash: 6bc76e17f0d5e93f3eea7f5a2fe227f3
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: Selectable
+  - hash:
+      serializedVersion: 2
+      Hash: 3164bc883ff663a5cdb32d1ef7e7c0c5
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: VerticalLayoutGroup
+  - hash:
+      serializedVersion: 2
+      Hash: 5749f3b6cf1cc9e8b8fd3beb3d34ce9f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: TailDemo_SkinnedMeshGenerator
+  - hash:
+      serializedVersion: 2
+      Hash: 21a9c6dbf300fc1f6dc15ca7e2c39a37
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: Slider
+  - hash:
+      serializedVersion: 2
+      Hash: 3164bc883ff663a5cdb32d1ef7e7c0c5
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: HorizontalLayoutGroup
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: UnityEngine.TestRunner.dll
+    namespaceName: UnityEngine.TestTools.TestRunner.Callbacks
+    className: PlayerQuitHandler
+  - hash:
+      serializedVersion: 2
+      Hash: 0401659fd2d3cbbe31ae3e0d0932b03d
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: FIMSpace.Basics
+    className: FBasic_PullableKnob
+  - hash:
+      serializedVersion: 2
+      Hash: caa533b001ae39b864ba8425019e2268
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: Shadow
+  - hash:
+      serializedVersion: 2
+      Hash: 84053210887c0596f69afa70207fd16a
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: FIMSpace.Basics
+    className: FBasics_RigidbodyMover
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.EventSystems
+    className: BaseInput
+  - hash:
+      serializedVersion: 2
+      Hash: 02a96c19befe1ee79e0f4797f6e75255
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: FIMSpace.FTail
+    className: FTail_Demo_FixedUpdateLimit
+  - hash:
+      serializedVersion: 2
+      Hash: 2c813488ec73bf902605a20859552318
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: FIMSpace.Basics
+    className: FBasic_FheelekController
+  - hash:
+      serializedVersion: 2
+      Hash: f0786811516f7de8befd7a3e181e567a
+    assemblyName: Unity.TextMeshPro.dll
+    namespaceName: TMPro
+    className: TMP_FontAsset
+  - hash:
+      serializedVersion: 2
+      Hash: e314287020b3c770616fac975d98fa31
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: FIMSpace.Basics
+    className: FBasic_RigidbodyMovement
+  - hash:
+      serializedVersion: 2
+      Hash: 18c222bef9ae745ce69ddde9b74337ca
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.EventSystems
+    className: Physics2DRaycaster
+  - hash:
+      serializedVersion: 2
+      Hash: 77bc12a1abf11194a478c56f5a8fd66c
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: FIMSpace.Basics
+    className: FBasic_MaterialFloatAnimate
+  - hash:
+      serializedVersion: 2
+      Hash: a2612813f45d0ced02c3e4bc9dbea8b4
+    assemblyName: Unity.TextMeshPro.dll
+    namespaceName: TMPro
+    className: TextMeshPro
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: UnityEngine.TestRunner.dll
+    namespaceName: UnityEngine.TestTools.TestRunner.Callbacks
+    className: PlayModeRunnerCallback
+  - hash:
+      serializedVersion: 2
+      Hash: bd3cf68c8964d3c66d1c43f4f98508c9
+    assemblyName: Unity.Timeline.dll
+    namespaceName: UnityEngine.Timeline
+    className: AnimationTrack
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: PositionAsUV1
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: FIMSpace.Basics
+    className: FBasic_CourutineHelper
+  - hash:
+      serializedVersion: 2
+      Hash: 4a308c7ec7223dca65840c54b5a75e73
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: FIMSpace.FTail
+    className: FTail_Demo_LeverBlend
+  - hash:
+      serializedVersion: 2
+      Hash: 87ff43d2baf3385cba327d8f803a4ebb
+    assemblyName: Unity.Timeline.dll
+    namespaceName: UnityEngine.Timeline
+    className: AudioPlayableAsset
+  - hash:
+      serializedVersion: 2
+      Hash: da1d7263dc817b34c770825eea013c01
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: FIMSpace.FTail
+    className: TailAnimator2
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: UnityEngine.TestRunner.dll
+    namespaceName: UnityEngine.TestTools.TestRunner.Callbacks
+    className: RemoteTestResultSender
+  - hash:
+      serializedVersion: 2
+      Hash: 134322c9293c1896357cce271b819ce4
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.EventSystems
+    className: EventTrigger
+  - hash:
+      serializedVersion: 2
+      Hash: 8b616cf8579c2427aafde3303068057d
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: FIMSpace.Basics
+    className: FBasic_TranslateTransformSpace
+  - hash:
+      serializedVersion: 2
+      Hash: 780ec16848ac537f3b779de8765b4cc6
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: FIMSpace.Basics
+    className: FBasic_SlideObjectTo
+  - hash:
+      serializedVersion: 2
+      Hash: 221ad022d1d9cc421c7746497963f8ee
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: FIMSpace.Basics
+    className: FBasic_ProjectileBase
+  - hash:
+      serializedVersion: 2
+      Hash: a81d4c2c1cf3ad164d277d927a193679
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: Dropdown
+  - hash:
+      serializedVersion: 2
+      Hash: c3d3430df9e3ea95e3e3d587961390fb
+    assemblyName: Unity.Timeline.dll
+    namespaceName: UnityEngine.Timeline
+    className: GroupTrack
+  - hash:
+      serializedVersion: 2
+      Hash: a5781dc71a671b1ad2b38de19f24b71f
+    assemblyName: Unity.Timeline.dll
+    namespaceName: UnityEngine.Timeline
+    className: ActivationTrack
+  - hash:
+      serializedVersion: 2
+      Hash: 3a4de25514054b7f0631a783f5be80b0
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: FIMSpace.FTail
+    className: FTail_Editor_Skinner
+  - hash:
+      serializedVersion: 2
+      Hash: d791aa6007fa3640be1164ea75bb087d
+    assemblyName: Unity.TextMeshPro.dll
+    namespaceName: TMPro
+    className: TMP_StyleSheet
+  - hash:
+      serializedVersion: 2
+      Hash: 699619b86d9359741a4f58540298c80b
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: Text
+  - hash:
+      serializedVersion: 2
+      Hash: c3d3430df9e3ea95e3e3d587961390fb
+    assemblyName: Unity.Timeline.dll
+    namespaceName: UnityEngine.Timeline
+    className: SignalTrack
+  - hash:
+      serializedVersion: 2
+      Hash: a710690f8d14e87950da9a086692af77
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: FIMSpace.Basics
+    className: FBasic_DestroyAfter
+  - hash:
+      serializedVersion: 2
+      Hash: 1799d775eeb5f55ddc6085bc0540238b
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: FIMSpace.FTail
+    className: FTail_Demo_MassUpdaterPlusCanvas
+  - hash:
+      serializedVersion: 2
+      Hash: f1d735cc1a21c3704ab52568f4fbfcf8
+    assemblyName: UnityEngine.TestRunner.dll
+    namespaceName: UnityEngine.TestTools.TestRunner
+    className: PlaymodeTestsController
+  - hash:
+      serializedVersion: 2
+      Hash: deb770f00a41564db56e05a9d4e07657
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: FIMSpace.FTail
+    className: FTail_Animator2D
+  - hash:
+      serializedVersion: 2
+      Hash: aba7b2852ef61d175dd9602e7723d5e5
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: Mask
+  - hash:
+      serializedVersion: 2
+      Hash: c1d728126ff1918728036c59106d32b2
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: RawImage
+  - hash:
+      serializedVersion: 2
+      Hash: f520bb22e321bb3977621a1d54c669d5
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: FIMSpace.FTail
+    className: TailAnimatorWind
+  - hash:
+      serializedVersion: 2
+      Hash: ef12eb1cb8f9622efd4958ac7538f649
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: FIMSpace.Basics
+    className: FBasic_AnimatorPlayState
+  - hash:
+      serializedVersion: 2
+      Hash: a3e7723659c6fbe591e0a762239bfee0
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: FIMSpace.Basics
+    className: FBasic_CharacterController
+  - hash:
+      serializedVersion: 2
+      Hash: 2b4799580eaec27187cdae31bd3b59ce
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: FIMSpace.FTail
+    className: FTail_CollisionHelper
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: Pickup_Hiz
+  - hash:
+      serializedVersion: 2
+      Hash: c3d3430df9e3ea95e3e3d587961390fb
+    assemblyName: Unity.Timeline.dll
+    namespaceName: UnityEngine.Timeline
+    className: ControlTrack
+  - hash:
+      serializedVersion: 2
+      Hash: b3b88a83977f0095ee5fd9765e4de1e8
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: AnimationScript
+  - hash:
+      serializedVersion: 2
+      Hash: 5f170942ee57c7a568f5bcfc7521adea
+    assemblyName: UnityEngine.TestRunner.dll
+    namespaceName: UnityEngine.TestTools
+    className: EnumerableTestState
+  - hash:
+      serializedVersion: 2
+      Hash: a09faffb1471f6a818f579fc6bded1f7
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: FIMSpace.Basics
+    className: FBasic_CharacterInputKeys
+  - hash:
+      serializedVersion: 2
+      Hash: 3165968ba45c74472d279ba04455fccb
+    assemblyName: Unity.TextMeshPro.dll
+    namespaceName: TMPro
+    className: TMP_ColorGradient
+  - hash:
+      serializedVersion: 2
+      Hash: 908b3077da284d11de0450423ca1808e
+    assemblyName: Unity.Timeline.dll
+    namespaceName: UnityEngine.Timeline
+    className: SignalReceiver
+  - hash:
+      serializedVersion: 2
+      Hash: 24786b683426ff5c040e360cd58eb4fc
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: FIMSpace.FTail
+    className: TailCollisionHelper
+  - hash:
+      serializedVersion: 2
+      Hash: 040dd48e3a027d5424519a5fa2009df4
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: ScrollRect
+  - hash:
+      serializedVersion: 2
+      Hash: 0e5fb9b1d892e4ea405500c7b31dd480
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: FIMSpace.Basics
+    className: FBasic_DuplicateObjects
+  - hash:
+      serializedVersion: 2
+      Hash: 18c222bef9ae745ce69ddde9b74337ca
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.EventSystems
+    className: PhysicsRaycaster
+  - hash:
+      serializedVersion: 2
+      Hash: 0fb27be807aa299702f28ad0bcad1f46
+    assemblyName: Unity.Timeline.dll
+    namespaceName: UnityEngine.Timeline
+    className: ControlPlayableAsset
+  - hash:
+      serializedVersion: 2
+      Hash: a1aa98c78061c6f03a8c124cda576e67
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: CanvasScaler
+  - hash:
+      serializedVersion: 2
+      Hash: 74754de735b005660273875af0710468
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: FIMSpace.Basics
+    className: FBasic_TriggerEvents
+  - hash:
+      serializedVersion: 2
+      Hash: ef5c43f921427d03730f6ea4c848f07d
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: RectMask2D
+  - hash:
+      serializedVersion: 2
+      Hash: f626e20c978c20038fd5a208ba4afaa7
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: FIMSpace.Basics
+    className: FBasic_InteractionAreaCanvas
+  - hash:
+      serializedVersion: 2
+      Hash: f7fea0e7b68c0ba472414a3da19ee97c
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: FIMSpace.FTail
+    className: FTail_Animator
+  - hash:
+      serializedVersion: 2
+      Hash: 87ad3705a58f19c47136728d4a6e9c47
+    assemblyName: Unity.TextMeshPro.dll
+    namespaceName: TMPro
+    className: TMP_Settings
+  - hash:
+      serializedVersion: 2
+      Hash: a59c25f5276ab59b023f238ebdd84f7c
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: FIMSpace.FTail
+    className: FTail_AnimatorLegacy
+  - hash:
+      serializedVersion: 2
+      Hash: b552d5a938c2635233513ff7eb253146
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: TailDemo_2DMover
+  - hash:
+      serializedVersion: 2
+      Hash: ff0290bed03a486f45c3c8bb4734e3dc
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: FIMSpace.FTail
+    className: FTail_Reference
+  - hash:
+      serializedVersion: 2
+      Hash: af6ed65c8d910e5941f1b261a7faf438
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: FIMSpace.FTail
+    className: FTail_AnimatorBlending
+  - hash:
+      serializedVersion: 2
+      Hash: cf9f5cf2c3145a37ac07f00e50e460f9
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: AspectRatioFitter
+  - hash:
+      serializedVersion: 2
+      Hash: cc4274b586df3c02688bac01b88bd16c
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.EventSystems
+    className: EventSystem
+  - hash:
+      serializedVersion: 2
+      Hash: fe64a45214940b510a0ec79c96d43498
+    assemblyName: Unity.TextMeshPro.dll
+    namespaceName: TMPro
+    className: TMP_Dropdown
+  - hash:
+      serializedVersion: 2
+      Hash: 6ba6f96210741896f4b099b47972fe70
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: FIMSpace.FTail
+    className: FTail_Demo_SlimeMovement
+  - hash:
+      serializedVersion: 2
+      Hash: f336e086360abe49a3323e5f1583c35a
+    assemblyName: Unity.Timeline.dll
+    namespaceName: UnityEngine.Timeline
+    className: AudioTrack
+  - hash:
+      serializedVersion: 2
+      Hash: a74405a4829a834d107a0c6e072719ed
+    assemblyName: Unity.Timeline.dll
+    namespaceName: UnityEngine.Timeline
+    className: TimelineAsset
+  - hash:
+      serializedVersion: 2
+      Hash: 52162cc848eb26a4b383242eebfe0512
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: TailDemo_SegmentedTailGenerator
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: FPSDisplay
+  - hash:
+      serializedVersion: 2
+      Hash: 7b4e9b01748748fba1a72686bbce130d
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: FIMSpace.Basics
+    className: FBasic_RotateSpinSin
+  - hash:
+      serializedVersion: 2
+      Hash: 760787567e1b60d64a3e421ab83ee14a
+    assemblyName: Unity.TextMeshPro.dll
+    namespaceName: TMPro
+    className: TextMeshProUGUI
+  - hash:
+      serializedVersion: 2
+      Hash: f0a4c7ccf099ee89a7d8cf89f046ba43
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: TailDemo_SfxExample
+  - hash:
+      serializedVersion: 2
+      Hash: 6980e81ddc615a861309d2d659cc3760
+    assemblyName: Unity.TextMeshPro.dll
+    namespaceName: TMPro
+    className: TMP_SubMeshUI
+  - hash:
+      serializedVersion: 2
+      Hash: 1b880d0c5b226f9ec4ed1cefe4586e89
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: FIMSpace.Basics
+    className: FBasic_FreeCameraBehaviour
+  - hash:
+      serializedVersion: 2
+      Hash: 6ba6f96210741896f4b099b47972fe70
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: FIMSpace.FTail
+    className: FTail_Demo_GroundMovement
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: FIMSpace.Basics
+    className: FBasic_DestroyOthersWithMe
+  - hash:
+      serializedVersion: 2
+      Hash: 15206c43ce4812fdc998c50f65f572b8
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: TailDemo_CuttingController
+  - hash:
+      serializedVersion: 2
+      Hash: 4257e6a93011dd2d6aeb2275342207b3
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: FIMSpace.Basics
+    className: FBasic_Rotator
+  - hash:
+      serializedVersion: 2
+      Hash: fd68d84f33fad85aac38f2739c0ee270
+    assemblyName: Unity.TextMeshPro.dll
+    namespaceName: TMPro
+    className: TMP_SpriteAsset
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: UnityEngine.TestRunner.dll
+    namespaceName: UnityEngine.TestRunner.Utils
+    className: TestRunCallbackListener
+  - hash:
+      serializedVersion: 2
+      Hash: ae83e830e7a90c0aff918c4c2e520825
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: GraphicRaycaster
+  - hash:
+      serializedVersion: 2
+      Hash: e7a73f5f78ba6445195ec23b74a1ce2d
+    assemblyName: Unity.TextMeshPro.dll
+    namespaceName: TMPro
+    className: TMP_ScrollbarEventHandler
+  - hash:
+      serializedVersion: 2
+      Hash: f40fedccd4adbc76605bea6d67537e4b
+    assemblyName: Unity.TextMeshPro.dll
+    namespaceName: TMPro
+    className: TMP_SelectionCaret
+  - hash:
+      serializedVersion: 2
+      Hash: 0401659fd2d3cbbe31ae3e0d0932b03d
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: FIMSpace.Basics
+    className: FBasic_Pullable
+  - hash:
+      serializedVersion: 2
+      Hash: d442a961a683677bdaa75613f89289ea
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: FIMSpace.Basics
+    className: FBasic_MaterialOffset
+  - hash:
+      serializedVersion: 2
+      Hash: 69f7369dfe9da4e0e133f2a2a7e8baf2
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: TailDemo_TailCutId
+  - hash:
+      serializedVersion: 2
+      Hash: a306e12d896ddcca949923c805691027
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: InputField
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Unity.TextMeshPro.dll
+    namespaceName: TMPro
+    className: TMP_SpriteAnimator
+  - hash:
+      serializedVersion: 2
+      Hash: 80828ca91abfe70cdfd05a42a67e70fc
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: Debug_Menu
+  - hash:
+      serializedVersion: 2
+      Hash: 797775406da231b3f30177a2fc2e33fd
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: TailAnimatorDemo_InsectMover
+  - hash:
+      serializedVersion: 2
+      Hash: 8450734d5cb4d7f393a8cc19a3e443a6
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: FIMSpace.Basics
+    className: FBasic_HoldPosition
+  - hash:
+      serializedVersion: 2
+      Hash: 0efad333c069af79e8de28eeacbfa7ae
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: FIMSpace.Basics
+    className: FBasic_RotateTo
+  - hash:
+      serializedVersion: 2
+      Hash: ac5ab4a2a8c3a06b3836104d835ba092
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: FIMSpace.Basics
+    className: FBasic_FlyMovement
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: UnityEngine.TestRunner.dll
+    namespaceName: UnityEngine.TestTools.TestRunner.Callbacks
+    className: TestResultRendererCallback
+  - hash:
+      serializedVersion: 2
+      Hash: d706920b61393ce006e20d912b5bfd4a
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: TailDemo_LineRenderer
+  - hash:
+      serializedVersion: 2
+      Hash: 3af2c5a4e1e8aaad9b6d15cf4539cdf7
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: FIMSpace.FTail
+    className: FTail_Animator_MassUpdater
+  - hash:
+      serializedVersion: 2
+      Hash: b552d5a938c2635233513ff7eb253146
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: FIMSpace.Basics
+    className: FBasics_Rigidbody2DMover
+  - hash:
+      serializedVersion: 2
+      Hash: 67f3b051498c0003377e2c42456abbcd
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: FIMSpace.Basics
+    className: FBasic_MaterialTiler
+  - hash:
+      serializedVersion: 2
+      Hash: 3f49c2cb8754499097bcdc00992f2e71
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: FIMSpace.Basics
+    className: FBasic_SphericDuplicateOn
+  - hash:
+      serializedVersion: 2
+      Hash: 748dd2a2a28da4e618912da5ac45684b
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.EventSystems
+    className: StandaloneInputModule
+  - hash:
+      serializedVersion: 2
+      Hash: f7858108331b563fb41b80b729297acd
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: Scrollbar
+  - hash:
+      serializedVersion: 2
+      Hash: 5dea360fb0b147724ac344e6f399c2f3
+    assemblyName: Unity.TextMeshPro.dll
+    namespaceName: TMPro
+    className: TMP_SubMesh
+  - hash:
+      serializedVersion: 2
+      Hash: c3d3430df9e3ea95e3e3d587961390fb
+    assemblyName: Unity.Timeline.dll
+    namespaceName: UnityEngine.Timeline
+    className: MarkerTrack
+  - hash:
+      serializedVersion: 2
+      Hash: d981813240cb3e6f95726721286e15e9
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: FIMSpace.Basics
+    className: FBasic_TimedExecutor
+  - hash:
+      serializedVersion: 2
+      Hash: 8220b46879dc5e37db1b940c938f5744
+    assemblyName: Unity.Timeline.dll
+    namespaceName: UnityEngine.Timeline
+    className: SignalEmitter
+  - hash:
+      serializedVersion: 2
+      Hash: 8e6ceabfd38a184413d69b7db56c89cc
+    assemblyName: UnityEngine.TestRunner.dll
+    namespaceName: UnityEngine.TestTools
+    className: BeforeAfterTestCommandState
+  - hash:
+      serializedVersion: 2
+      Hash: 0fd6822f6177297bd0eb4d83cc7a9030
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: ToggleGroup
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Unity.Timeline.dll
+    namespaceName: UnityEngine.Timeline
+    className: ActivationPlayableAsset
+  - hash:
+      serializedVersion: 2
+      Hash: 69415240821be7986b27e72bf9609a30
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: Button
+  - hash:
+      serializedVersion: 2
+      Hash: 88fb8bf1220e09bdd53e1d891eb638de
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: kamera_takip
+  - hash:
+      serializedVersion: 2
+      Hash: 7ab0e790220bdca831fdd886b339039d
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: GridLayoutGroup
+  - hash:
+      serializedVersion: 2
+      Hash: 0952682d013fa5f717d6b5a74ccad7e0
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: FIMSpace.Basics
+    className: FBasic_OffsetMovement
+  - hash:
+      serializedVersion: 2
+      Hash: abf1930d8126d0b2e00e9449129a0190
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.EventSystems
+    className: TouchInputModule
+  - hash:
+      serializedVersion: 2
+      Hash: 7acebdd593ddf7150fd4df9b946b7e47
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: FIMSpace.Basics
+    className: FBasic_Shared_BulletHittable
+  - hash:
+      serializedVersion: 2
+      Hash: 99090e7bb6e077417d3367cea397102d
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: FIMSpace.FTail
+    className: FTail_Demo_LeverUsage
+  - hash:
+      serializedVersion: 2
+      Hash: 7cbbc6b4a216a0ef5fba5edbb7494aba
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: FIMSpace.Basics
+    className: FBasic_FadeOutMaterialAndDestroy
+  - hash:
+      serializedVersion: 2
+      Hash: 5940de40e76e5dfc91dd5883fb55cf8f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: FIMSpace.Basics
+    className: FBasic_MaterialRandomColor
+  - hash:
+      serializedVersion: 2
+      Hash: 4fd8bf02e3089425d3502e26c44ba31a
+    assemblyName: Unity.TextMeshPro.dll
+    namespaceName: TMPro
+    className: TextContainer
+  - hash:
+      serializedVersion: 2
+      Hash: 24b978261159db7105732765cfe0683e
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: FIMSpace.Audio
+    className: FBasic_FheelekFighter
+  - hash:
+      serializedVersion: 2
+      Hash: d4162d8533420bc017980f6a5ad9d086
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: FIMSpace.Basics
+    className: FBasic_FollowTarget
+  - hash:
+      serializedVersion: 2
+      Hash: deb770f00a41564db56e05a9d4e07657
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: FIMSpace.FTail
+    className: FTail_AnimatorUI
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: X_Point
+  platform: 13
+  scenePathNames:
+  - Assets/Scenes/WheelMan.unity
+  playerPath: /Users/uguripek/Documents/Unity/Tail/WhellMan.apk
